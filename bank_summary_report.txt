@@ -1,0 +1,25 @@
+===============================================================
+ Standard Bank - MULTI-BRANCH BANKING MANAGEMENT SYSTEM
+ SUMMARY REPORT
+ Generated: 21/09/2026 22:38:57
+===============================================================
+
+BRANCHES
+---------------------------------------------------------------
+  BR001 - Standard Bank Johannesburg CBD (0116369111)
+  BR002 - Standard Bank Durban Central (0313605000)
+  BR003 - Standard Bank Cape Town Central (0214804000)
+
+CUSTOMERS AND ACCOUNTS
+---------------------------------------------------------------
+  CUST-0001  Nhlanhla Moyo
+      ACC-BR001-00001  Savings  R 912.00
+  CUST-0002  Programming C++
+      ACC-BR001-00002  Cheque  R 1300.00
+
+---------------------------------------------------------------
+  Total Customers : 2
+  Total Accounts  : 2
+  Total Holdings  : R 2212.00
+  Total Transact. : 7
+===============================================================

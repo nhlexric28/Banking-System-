@@ -1,0 +1,3 @@
+CustomerID,FullName,SA_ID,Contact,Email,Address,DOB,AccountNumber,AccountType,Balance,Status,Branch
+CUST-0001,Nhlanhla Moyo,8001015009087,0712345678,nhlanhla@example.com,12 location street, JHB,01/01/2000,ACC-BR001-00001,Savings,912.00,Active,BR001
+CUST-0002,Programming C++,8001114009087,0612345678,pro@example.com,124 Guru Street, Soweto,05/11/1999,ACC-BR001-00002,Cheque,1300.00,Active,BR001

@@ -1,0 +1,13 @@
+# ============================================
+# Multi-Branch Banking System Configuration
+# ============================================
+BANK_NAME=Standard Bank
+MAX_LOGIN_ATTEMPTS=3
+MIN_DEPOSIT_SAVINGS=50
+MIN_DEPOSIT_CHEQUE=100
+MIN_DEPOSIT_FIXED=1000
+MIN_DEPOSIT_STUDENT=20
+CURRENCY=R
+ACCOUNT_COUNTER=2
+CUSTOMER_COUNTER=2
+TRANSACTION_COUNTER=7
